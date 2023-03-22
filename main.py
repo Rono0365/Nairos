@@ -49,7 +49,11 @@ def add_block(receiver,sender,amount):
     #print(current_block)
 
 check_integrity()
-add_block('rono','idjeoi', 200)#this is how you implement adding after checking integrity for the first string add the sender and second sring the receiver alafu ya mwisho ni amount
+add_block('User1','User2', 200)
+#this is how you add to the ledger 
+#User1 -sender
+#User2 -receiver
+#200 -int value ofthe cash
 #if __name__ == '__main__':
     
         
