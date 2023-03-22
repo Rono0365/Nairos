@@ -1,13 +1,2 @@
 # Nairos
-A blockchain mainly for transactions implemented in python read the code and conrtibute
-
-inspired by the bitcoin whitepaper i wrote the algorithmn based on that ,
-if you're reading this you can now own your own chain i have simplified it to a single file 
-Just remember the value of a network is not the algorithmn it's the number of users it has on it's network
-
-with this you can git pull the code and use it as a library on your project i used it for sending commands in a smarthome project not yet on gituhub worked fine.Hope you use it too and create cool projects
-
-#i leave you with a  quote:
-#the people who are crazy enough to think they can change the world are the ones who do
-
-reach me out on Twitter @Rono_Kenya
+Welcome to Nairos, a simplified blockchain ledger designed to streamline transactions into a single file. Our platform eliminates the need for complex ledgers and processes, making transactions fast, easy, and efficient. With Nairos, you can securely store, send, and receive cryptocurrency without the hassle of traditional blockchain technology. Our innovative approach reduces the size of the blockchain to a single file, making it easier to manage and more accessible to everyone. Our mission is to provide a user-friendly platform that simplifies the cryptocurrency experience while ensuring the security of your transactions. Join us on Nairos and experience a new era of blockchain technology.
